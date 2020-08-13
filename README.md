@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadaliraza)](https://github.com/anuraghazra/github-readme-stats)
+
 [![My's github stats](https://github-readme-stats.vercel.app/api?username=ahmadaliraza)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
