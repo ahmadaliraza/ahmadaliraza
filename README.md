@@ -1,13 +1,13 @@
-
 <img src= "https://raw.githubusercontent.com/ahmadsamii/ahmadsamii/master/software.png"></img>
 
 <br>
 
-[![My's github stats](https://github-readme-stats.vercel.app/api?username=ahmadaliraza)](https://github.com/anuraghazra/github-readme-stats)
+[![Ahmad's github stats](https://github-readme-stats.vercel.app/api?username=ahmadaliraza&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=ahmadaliraza)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadaliraza&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
+
 Welcome to my GitHub! I'm Ahmad, a Electrical Engineering graduate who has transitioned into Full Stack Software Engineering with 7+ years experience developing robust web applications for high-volume businesses and enterprises. Also i have contributed in a product that won Barclay’s 2017 Innovation Challenge. Developed automation platform which has beta clients including Fortune 500 companies.
 
 
@@ -25,6 +25,7 @@ Welcome to my GitHub! I'm Ahmad, a Electrical Engineering graduate who has trans
 ### 🌴 Fun fact
 - I am a big food lover and own a restaurant. ping me for recipies ;) 
 
+<br>
 
 ### ☕ Get in touch
 
@@ -32,7 +33,7 @@ Welcome to my GitHub! I'm Ahmad, a Electrical Engineering graduate who has trans
   <img align="left" alt="Ahmad's Linkdein" width="22px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/a90c0e79a3158f2990ee3c1856941a8ac0c94d15/icons/linkedin.svg" />
 </a>
 
-<a href="https://github.com/ahmadsamii">
+<a href="https://github.com/ahmadaliraza">
   <img align="left" alt="Ahmad's Github" width="22px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/a90c0e79a3158f2990ee3c1856941a8ac0c94d15/icons/github.svg" />
 </a>
 
