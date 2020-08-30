@@ -1,14 +1,8 @@
 <img src= "https://raw.githubusercontent.com/ahmadsamii/ahmadsamii/master/software.png"></img>
 
-<br>
-
-<a href="https://github.com/ahmadaliraza">
 [![Ahmad's github stats](https://github-readme-stats.vercel.app/api?username=ahmadaliraza&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-  </a>  
-
-<a href="https://github.com/ahmadaliraza">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadaliraza&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-  </a>  
+
 <br>
 
 Welcome to my GitHub! I'm Ahmad, a Electrical Engineering graduate who has transitioned into Full Stack Software Engineering with 7+ years experience developing robust web applications for high-volume businesses and enterprises. Also i have contributed in a product that won Barclay’s 2017 Innovation Challenge. Developed automation platform which has beta clients including Fortune 500 companies.
